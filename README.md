@@ -1,5 +1,5 @@
-# syrup-module
-syrup module for coffee vending machine
+# syrup-module on arduino nano v3
+syrup module for coffee vending machine 
 
 Сиропный модуль для кофейного автомата на 2 вида сиропов. 
 В режиме рожидания подсветка кнопок выбора сиропов загорается переменно с интервалом 1 сек.
